@@ -2,7 +2,19 @@ package tyreso.gymnasium._10_arrayer;
 
 import java.util.Random;
 
-public class ArrayMethods {
+public class
+
+
+
+
+
+
+
+
+
+
+
+ArrayMethods {
 
     public static void main(String args[]){
 

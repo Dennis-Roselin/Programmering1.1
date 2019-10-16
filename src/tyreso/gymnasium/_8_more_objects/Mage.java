@@ -21,6 +21,9 @@ public class Mage {
     //add variable to hold the mana regen
     private List<Spell> spells;     //We will have a deeper look at this for next class
     private Spell fireball;
+    private double evasion = 0.0;
+    private long armor = 0;
+    private long magicResistance = 0;
 
     /**
      * Constructors need to be public if you want to be able to create the object at all.
@@ -74,6 +77,16 @@ public class Mage {
      * as well.
      */
     //TODO YOUR CODE HERE!!!   YOUR CODE HERE!!!   YOUR CODE HERE!!!   YOUR CODE HERE!!!   YOUR CODE HERE!!!
+
+
+    public double takeDamage(){
+    int damage = 5;
+
+
+
+
+        return 0;
+    }
 
     //supply parameter for the amount of raw dmg dealt
     //check for mitigation
