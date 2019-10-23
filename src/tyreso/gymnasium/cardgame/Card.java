@@ -52,6 +52,9 @@ public class Card {
         return returnString;
     }
 
-
+    @Override
+    public String toString(){
+        return this.value + " " + this.suit;
+    }
 
 }
